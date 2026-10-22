@@ -3,7 +3,7 @@
 
 ### 👨‍💻 Sobre mim:
 
-Atualmente trabalho como **QA Pleno** e como **Analista de Suporte** em um sistema **ERP de gestão pública educacional**. Tenho **3 anos de experiência** em qualidade de software e automação de testes. Acredito que entender o software de ponta a ponta é o que torna os testes realmente eficazes, por isso também desenvolvo sistemas completos, do front-end ao back-end.
+Atualmente trabalho como **QA Pleno** e como **Analista de Suporte** em um sistema **ERP de gestão pública educacional**. Aanalista em qualidade de software e automação de testes. Acredito que entender o software de ponta a ponta é o que torna os testes realmente eficazes, por isso também desenvolvo sistemas completos, do front-end ao back-end.
 
 - 🧪 Automatizo testes E2E e de interface com **Cypress** e **Playwright**
 - 💻 Desenvolvo aplicações **full-stack para Web e Mobile** com **React, TypeScript, Flutter e C#**
@@ -69,9 +69,12 @@ Loja virtual de camisas com estampas feitas à mão: vitrine com filtro por cole
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="30" height="30"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase" width="30" height="30"/>
 
-#### [Design Limpo](https://github.com/MaisUmMatheus/Desing-Limpo)
+#### [CarClinic](https://github.com/MaisUmMatheus/Carclinic)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="30" height="30"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="30" height="30"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase" width="30" height="30"/>
 
-#### [Cypress](https://github.com/MaisUmMatheus/Cypress)
+#### [Automação](https://github.com/MaisUmMatheus/Cypress)
 Testes automatizados E2E com Cypress.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" title="Cypress" alt="Cypress" width="30" height="30"/>&nbsp;
