@@ -74,7 +74,7 @@ Landing page desenvolvida para uma estética automotiva, com foco em apresentar 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="30" height="30"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="30" height="30"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase" width="30" height="30"/>
+
 
 #### [Automação](https://github.com/MaisUmMatheus/Cypress)
 Testes automatizados E2E com Cypress.
