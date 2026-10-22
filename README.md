@@ -33,7 +33,6 @@ Atualmente trabalho como **QA Pleno** e como **Analista de Suporte** em um siste
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
 </p>
 
 **Testes Automatizados (QA)**
@@ -56,7 +55,6 @@ Atualmente trabalho como **QA Pleno** e como **Analista de Suporte** em um siste
 ### 🔥 Minhas Estatísticas:
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=MaisUmMatheus&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaisUmMatheus&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" height="165"/>
 </p>
 
