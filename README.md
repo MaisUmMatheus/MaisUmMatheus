@@ -70,6 +70,7 @@ Loja virtual de camisas com estampas feitas à mão: vitrine com filtro por cole
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase" width="30" height="30"/>
 
 #### [CarClinic](https://github.com/MaisUmMatheus/Carclinic)
+Landing page desenvolvida para uma estética automotiva, com foco em apresentar os serviços da empresa de forma moderna, responsiva e visualmente atrativa.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="30" height="30"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="30" height="30"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase" width="30" height="30"/>
